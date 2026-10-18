@@ -1,1 +1,2 @@
-Ảnh minh chứng:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a41df8d4-23a8-408a-bb84-b1b0e2119a4b" />
+Ảnh minh chứng:<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/658be35c-8358-437b-a71b-25443fa80b21" />
+
